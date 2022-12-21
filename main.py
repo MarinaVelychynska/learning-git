@@ -13,7 +13,3 @@ for i in range(1, 6):
     print(str(" * " * 10))
     print(str("  *" * 10))
 
-for i in range(0, 8, 2):
-  stars = i + 2
-  for i in range(2):
-    print("*" * stars)
