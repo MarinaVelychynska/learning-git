@@ -8,3 +8,7 @@ print(second_list)
 
 third_list = [i **3 for i in first_list]
 print(third_list)
+
+for i in range(1, 6):
+    print(str(" * " * 10))
+    print(str("  *" * 10))
